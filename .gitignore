@@ -22,7 +22,8 @@ __pycache__/
 env/
 venv/
 *.egg-info/
-pipfile*
+pipfile
+pipfile.lock
 
 # Java
 *.class
