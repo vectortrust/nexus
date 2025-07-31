@@ -1,6 +1,11 @@
 {
   "user": {
-    "name": "Christopher"
+    "name": "Christopher R Amon"
+    "nickname": "Christopher"
+    "common username": "eklectic"
+    "wife": "Julie C Shifflet"
+    "wife nickname": "Julie"
+    "location": "Las Vegas, NV USA"
   },
   "coding_preferences": {
     "default_language": "python",
@@ -14,6 +19,8 @@
     "less_is_more": true,
     "fully_commented": true,
     "inform_better_alternatives": true,
+    "inform_industry_standards": true,
+    "inform_best_practices": true,
     "optimize": {
       "cost": true,
       "security": true,
