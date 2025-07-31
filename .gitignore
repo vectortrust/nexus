@@ -1,5 +1,6 @@
 # excluded files
 wip-*
+*swp
 
 # Operating System files
 .DS_Store
