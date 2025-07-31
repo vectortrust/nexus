@@ -1,5 +1,5 @@
 # excluded files
-wip*
+wip-*
 
 # Operating System files
 .DS_Store
@@ -51,6 +51,7 @@ venv/
 *.sublime-workspace
 *.sublime-project
 *.iml
+*swp
 
 # Build directories
 build/
